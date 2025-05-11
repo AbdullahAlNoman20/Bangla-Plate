@@ -145,7 +145,6 @@ This project is for academic and research use only. For commercial use, please c
 ## 👤 Author
 
 **Abdullah Al Noman**  
-CSE, 7th Semester  
-Daffodil International University  
-📧 Email: your_email@example.com  
-🌐 GitHub: [@yourusername](https://github.com/yourusername)
+CSE, Daffodil International University  
+📧 Email: noman15-5387@diu.edu.bd 
+🌐 GitHub: [@AbdullahAlNoman20](https://github.com/AbdullahAlNoman20)
